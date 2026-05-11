@@ -10,10 +10,9 @@ contract Token {
 
     // TODO: implement balances
     // TODO: add transfer function
-
-// add mint function
-// restrict mint to owner
-// add burn logic
-// improve token economics
-// fix supply logic
+    // add mint function
+    // restrict mint to owner
+    // add burn logic
+    // improve token economics
+    // fix supply logic
 }
