@@ -24,7 +24,14 @@ Add Voting contract description
 Add Staking contract description
 Improve smart contracts section
 Add development notes
-
+Update development notes
+Add testing notes
+Expand testing section
+Add deployment plan
+Improve deployment notes
+Add Base network info
+Update Base integration section
++
 
 
 
