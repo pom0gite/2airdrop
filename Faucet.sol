@@ -8,9 +8,8 @@ contract Faucet {
     // TODO: connect to Token contract
     // TODO: implement claim function
     // TODO: add cooldown between claims
-
+    // add daily limit
+    // improve claim logic
+    // prevent abuse
+    // add logging
 }
-// add daily limit
-// improve claim logic
-// prevent abuse
-// add logging
