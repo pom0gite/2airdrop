@@ -17,7 +17,13 @@ Expand roadmap details
 Fix typo in roadmap
 Improve formatting in README
 Add section for smart contracts
-
+Describe Token contract idea
+Describe NFT contract idea
+Describe Faucet contract idea
+Add Voting contract description
+Add Staking contract description
+Improve smart contracts section
+Add development notes
 
 
 
