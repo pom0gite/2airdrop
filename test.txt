@@ -42,7 +42,10 @@ Add user flow description
 Improve user flow
 Add interaction examples
 +
-
+Add notes for token usage
+Improve token description
+Add NFT utility explanation
+Expand NFT section
 
 
 
