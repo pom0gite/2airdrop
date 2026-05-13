@@ -53,7 +53,9 @@ Expand voting explanation
 Add staking rewards idea
 Improve staking section
 ++
-
+Add contract interaction notes
+Improve interaction section
+Add frontend idea notes
 
 
 
