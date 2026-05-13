@@ -9,8 +9,8 @@ contract NFT {
 
     // TODO: implement mint NFT
     // TODO: add token URI
+    // add metadata support
+    // improve mint logic
+    // restrict access
+    // add collection description
 }
-// add metadata support
-// improve mint logic
-// restrict access
-// add collection description
