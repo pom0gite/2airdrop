@@ -8,9 +8,8 @@ contract Staking {
     // TODO: stake tokens
     // TODO: unstake tokens
     // TODO: calculate rewards
-
+    // improve reward logic
+    // add time-based rewards
+    // fix staking balance
+    // optimize calculations
 }
-// improve reward logic
-// add time-based rewards
-// fix staking balance
-// optimize calculations
