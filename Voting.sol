@@ -8,9 +8,8 @@ contract Voting {
     // TODO: create proposal
     // TODO: vote function
     // TODO: count votes
-
+    // prevent double voting
+    // add deadline
+    // improve voting logic
+    // add result calculation
 }
-// prevent double voting
-// add deadline
-// improve voting logic
-// add result calculation
