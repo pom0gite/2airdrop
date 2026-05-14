@@ -80,8 +80,8 @@ Add contract addresses placeholder
 Update addresses section
 Add Base testnet notes
 Improve testnet section
-
-
+Add mainnet considerations
+Expand mainnet notes
 
 
 
