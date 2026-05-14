@@ -82,7 +82,9 @@ Add Base testnet notes
 Improve testnet section
 Add mainnet considerations
 Expand mainnet notes
-
+Add documentation improvements
+Improve documentation structure
++
 
 
 
