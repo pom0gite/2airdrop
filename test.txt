@@ -77,9 +77,9 @@ Expand testing ideas
 Add deployment checklist
 Improve deployment checklist
 Add contract addresses placeholder
-
-
-
+Update addresses section
+Add Base testnet notes
+Improve testnet section
 
 
 
