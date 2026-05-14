@@ -75,7 +75,7 @@ Add testing improvements
 Expand testing ideas
 ++
 Add deployment checklist
-
+Improve deployment checklist
 
 
 
