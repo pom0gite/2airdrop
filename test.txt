@@ -88,7 +88,7 @@ Improve documentation structure
 Add contribution notes
 Improve contribution section
 Add license placeholder
-
+Update license section
 
 
 
