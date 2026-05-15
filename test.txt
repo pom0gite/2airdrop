@@ -85,7 +85,7 @@ Expand mainnet notes
 Add documentation improvements
 Improve documentation structure
 +
-
+Add contribution notes
 
 
 
