@@ -89,9 +89,9 @@ Add contribution notes
 Improve contribution section
 Add license placeholder
 Update license section
-
-
-
+Add community ideas
+Expand community section
+Add feedback notes
 
 
 
