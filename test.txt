@@ -97,8 +97,8 @@ Add summary section
 Improve summary
 ++
 Final review of README
-
-
+Fix minor typos
+Improve readability
 
 
 
