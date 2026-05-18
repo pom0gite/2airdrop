@@ -100,7 +100,7 @@ Final review of README
 Fix minor typos
 Improve readability
 Clean up formatting
-
+Add final notes
 
 
 
