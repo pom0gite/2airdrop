@@ -101,7 +101,7 @@ Fix minor typos
 Improve readability
 Clean up formatting
 Add final notes
-
+Improve overall structure
 
 
 
