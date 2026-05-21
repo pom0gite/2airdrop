@@ -108,6 +108,7 @@ Improve overall structure
 Prepare project for submission
 Final adjustments
 Last README update
-
+Final commit for Base mini project
+-----------------
 
 
